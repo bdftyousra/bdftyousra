@@ -2,23 +2,17 @@
 
 ### readme  
 <div align="center">
-<img src="https://i.imgur.com/5geGv8j.png" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### 
-  
-
--   <div align="center">I'ma full-time full-stack freelance developer 👨‍💻 working remotely  🚀</div>  
+### I'm Yousra, a full-time full-stack freelance developer 👨‍💻 working remotely  🚀  
   
 
 - 🌱 I’m currently learning Software Engineering    
   
 
 - **❓ Ask me about anything related to Software Engineering**  
-  
-
--   
   
 
 <br/>  
@@ -59,15 +53,11 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center">  
-  
-</div>
+
 
 </td><td valign="top" width="33%">
 
-<div align="center">  
-  
-</div>
+
 
 </td></tr></table>  
 
@@ -79,7 +69,6 @@
 <a href="https://github.com/https://github.com/bdftyousra" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCsrCNMO4ETKgG2LYmAIyJnA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
@@ -98,4 +87,23 @@
 <br/>  
 
 
+## Recent Blog Posts  
+  
 
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=bdftyousra&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----

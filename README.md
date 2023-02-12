@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<link rel="stylesheet" type="text/css" href="https://github.com/bdftyousra/bdftyousra/blob/update_script/css" />
 </head>
 <body>
 

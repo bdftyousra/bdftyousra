@@ -1,1 +1,1 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img src="https://i.imgur.com/hK2uBOS.png" alt="👋 Hi there! I'm yousra" title="👋 Hi there! I'm reza"/>

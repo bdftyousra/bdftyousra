@@ -6,7 +6,7 @@
 </div>  
   
 
-### I'm Yousra, a full-time full-stack freelance developer 👨‍💻 working remotely  🚀  
+### I'm  a full-time full-stack freelance developer 👨‍💻 working remotely  🚀  
   
 
 - 🌱 I’m currently learning Software Engineering    

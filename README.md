@@ -6,13 +6,13 @@
 </div>  
   
 
-### I'm  a full-time full-stack freelance developer 👨‍💻 working remotely  🚀  
+### I'm  technical support analyst 🚀  
   
 
 - 🌱 I’m currently learning Software Engineering    
   
 
-- **❓ Ask me about anything related to Software Engineering**  
+- **❓ Ask me about anything related to Software Engineering **  
   
 
 <br/>  

@@ -9,10 +9,10 @@
 ### I'm  technical support analyst 🚀  
   
 
-- 🌱 I’m currently learning Software Engineering    
+- 🌱 I’m currently Freelancer 
   
 
-- **❓ Ask me about anything related to Software Engineering **  
+- **❓ Ask me about anything related to base donne  : Mysqli Postgresql backend : php  FrentEnd : html css jQuery jscript **  
   
 
 <br/>  

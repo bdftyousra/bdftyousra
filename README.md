@@ -12,7 +12,29 @@
 - 🌱 I’m currently Freelancer 
   
 
-- **❓ Ask me about anything related to base donne  : Mysqli Postgresql backend : php  FrentEnd : html css jQuery jscript **  
+- **❓ Ask me about anything related 
+FRONT END :
+      HTML5
+      CSS
+      JavaScript
+      MediaQuery
+      BootStrap
+BACK END :
+      PHP
+      Java
+      C
+      Python
+      SQL
+Base Donne :
+      MySQli
+      PostgreSQL
+Autre :
+      linux
+      servers
+      RDNS
+
+
+  **  
   
 
 <br/>  

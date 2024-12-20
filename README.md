@@ -12,26 +12,26 @@
 - 🌱 I’m currently Freelancer 
   
 
-- **❓ Ask me about anything related 
-FRONT END :
-      HTML5
-      CSS
-      JavaScript
-      MediaQuery
-      BootStrap
-BACK END :
-      PHP
-      Java
-      C
-      Python
-      SQL
-Base Donne :
-      MySQli
-      PostgreSQL
-Autre :
-      linux
-      servers
-      RDNS
+- **❓ Ask me about anything related </br>
+FRONT END :</br>
+      HTML5</br>
+      CSS</br>
+      JavaScript</br>
+      MediaQuery</br>
+      BootStrap</br>
+BACK END :</br>
+      PHP</br>
+      Java</br>
+      C</br>
+      Python</br>
+      SQL</br>
+Base Donne :</br>
+      MySQli</br>
+      PostgreSQL</br>
+Autre :</br>
+      linux</br>
+      servers</br>
+      RDNS</br>
 
 
   **  
